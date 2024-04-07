@@ -5,6 +5,7 @@
 Este é um aplicativo de registro de participantes para eventos, com funcionalidades de busca e check-in.
 
 # Tecnologias Utilizadas:
-- **React**: ![React](https://img.icons8.com/color/48/000000/react-native.png) Uma biblioteca JavaScript para construir interfaces de usuário.
-- **Tailwind CSS**: ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css-icon.png) Um framework CSS utilitário para criar designs personalizados rapidamente.
-- **TypeScript**: ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) Uma linguagem de programação que adiciona tipagem estática opcional ao JavaScript, permitindo um desenvolvimento mais seguro e escalável.
+- [Vite](https://vitejs.dev/) ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite)
+- [React](https://reactjs.org/) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+- [TypeScript](https://www.typescriptlang.org/) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+- [Tailwind CSS](https://tailwindcss.com/) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet?style=flat-square&logo=tailwind-css)
